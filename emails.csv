@@ -1,0 +1,9 @@
+Date,Sender,Recipient,Subject,Body,Attachments
+2026-03-09 9:15:00,hr@company.com,team@company.com,Monthly HR Update,Please review the attached policy update regarding hybrid work schedules. Let me know if you have questions.,1
+2026-03-09 10:30:00,manager@company.com,lead@company.com,Project Review,We need to schedule a sync meeting tomorrow to go over the final Q1 project report and check deadlines.,0
+2026-05-10 14:22:00,analyst@company.com,manager@company.com,Q1 Financial Report,"Hello, I have compiled the quarterly numbers. Please find the spreadsheet and review graphics attached.",2
+2026-03-11 11:05:00,client@external.com,sales@company.com,Inquiry: Product Pricing,"Hi, I am reaching out to request a quote for your enterprise software package. Thanks.",0
+2026-03-14 16:45:00,lead@company.com,engineer@company.com,Code Review,Fixed the critical authentication bug. Please pull the latest main branch and run the test suite.,0
+2026-03-15 8:00:00,system@company.com,admin@company.com,Automated Backup Alert,Weekly backup completed successfully. Server logs are archived and ready for review.,1
+2026-03-15 8:00:00,system@company.com,admin@company.com,Automated Backup Alert,Weekly backup completed successfully. Server logs are archived and ready for review.,1
+2026-03-15 8:00:00,system@company.com,admin@company.com,Automated Backup Alert,Weekly backup completed successfully. Server logs are archived and ready for review.,1
