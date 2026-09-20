@@ -6,8 +6,9 @@ df = pd.read_csv("emails.csv")
 df['Email_Length'] = df['Body'].astype(str).apply(len)
 df['Subject_Length'] = df['Subject'].astype(str).apply(len)
 df['Hour'] = pd.to_datetime(df['Date']).dt.hour
+df['Has_attachment'] = df['Attachments'].notna().astype(int)
 
-numerical_df = df[['Email_Length', 'Subject_Length', 'Attachments', 'Hour']]
+numerical_df = df[['Email_Length', 'Subject_Length', 'Has_attachment', 'Hour']]
 sns.heatmap(numerical_df.corr(), annot=True, cmap='coolwarm', fmt=".2f")
 plt.title("Feature Correlation Matrix")
 plt.show()

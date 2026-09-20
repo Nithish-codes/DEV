@@ -1,9 +1,51 @@
 Date,Sender,Recipient,Subject,Body,Attachments
-2026-03-09 9:15:00,hr@company.com,team@company.com,Monthly HR Update,Please review the attached policy update regarding hybrid work schedules. Let me know if you have questions.,1
-2026-03-09 10:30:00,manager@company.com,lead@company.com,Project Review,We need to schedule a sync meeting tomorrow to go over the final Q1 project report and check deadlines.,0
-2026-05-10 14:22:00,analyst@company.com,manager@company.com,Q1 Financial Report,"Hello, I have compiled the quarterly numbers. Please find the spreadsheet and review graphics attached.",2
-2026-03-11 11:05:00,client@external.com,sales@company.com,Inquiry: Product Pricing,"Hi, I am reaching out to request a quote for your enterprise software package. Thanks.",0
-2026-03-14 16:45:00,lead@company.com,engineer@company.com,Code Review,Fixed the critical authentication bug. Please pull the latest main branch and run the test suite.,0
-2026-03-15 8:00:00,system@company.com,admin@company.com,Automated Backup Alert,Weekly backup completed successfully. Server logs are archived and ready for review.,1
-2026-03-15 8:00:00,system@company.com,admin@company.com,Automated Backup Alert,Weekly backup completed successfully. Server logs are archived and ready for review.,1
-2026-03-15 8:00:00,system@company.com,admin@company.com,Automated Backup Alert,Weekly backup completed successfully. Server logs are archived and ready for review.,1
+2026-08-10 22:00:00,alice@example.com,charlie@example.com,Syncup Tomorrow at 10 AM,Attached is the invoice for last month services. Processing will occur on net-30.,report.docx
+2026-08-10 03:00:00,bob@example.com,devops@company.com,Weekly Status Report,"Hi team, please find the latest updates attached. Let us know if you have questions.",roadmap_q3.pdf
+2026-08-09 09:00:00,david@example.com,alice@example.com,Customer Escalation #9910,Office will remain closed next Monday for national holidays.,roadmap_q3.pdf
+2026-09-18 07:00:00,david@example.com,devops@company.com,Customer Escalation #9910,Here are the highlights from this week across engineering and product.,architecture.png
+2026-09-08 17:00:00,hr@company.com,team@company.com,Invoice #INV-2026-089 Attached,Here are the highlights from this week across engineering and product.,notes.md
+2026-08-25 03:00:00,charlie@example.com,alice@example.com,Welcome to the team!,Please review the attached document and confirm receipt by end of day.,invoice_89.pdf
+2026-09-02 20:00:00,bob@example.com,charlie@example.com,Welcome to the team!,Office will remain closed next Monday for national holidays.,logs.txt
+2026-08-05 02:00:00,engineering@company.com,leadership@company.com,Action Required: Password Reset,Here are the highlights from this week across engineering and product.,invoice_89.pdf
+2026-09-17 12:00:00,hr@company.com,devops@company.com,Holiday Schedule Announcement,Welcome aboard! Make sure to complete your onboarding checklist.,architecture.png
+2026-08-07 08:00:00,alice@example.com,bob@example.com,Bug Report: Production Latency Spike,Please review the attached document and confirm receipt by end of day.,architecture.png
+2026-08-10 00:00:00,finance@company.com,bob@example.com,Feedback on PR #412,Welcome aboard! Make sure to complete your onboarding checklist.,report.docx
+2026-09-02 00:00:00,support@service.io,alice@example.com,Bug Report: Production Latency Spike,Please review the attached document and confirm receipt by end of day.,report.docx
+2026-09-15 23:00:00,david@example.com,alice@example.com,Feedback on PR #412,Here are the highlights from this week across engineering and product.,logs.txt
+2026-09-17 22:00:00,david@example.com,devops@company.com,Welcome to the team!,"Hi team, please find the latest updates attached. Let us know if you have questions.",architecture.png
+2026-08-04 03:00:00,support@service.io,charlie@example.com,Bug Report: Production Latency Spike,Please review the attached document and confirm receipt by end of day.,architecture.png
+2026-09-18 19:00:00,support@service.io,alice@example.com,Feedback on PR #412,Here are the highlights from this week across engineering and product.,
+2026-08-13 14:00:00,hr@company.com,alice@example.com,Syncup Tomorrow at 10 AM,Escalation resolved after rolling back migration hotfix.,logs.txt
+2026-09-20 07:00:00,finance@company.com,leadership@company.com,Weekly Status Report,Welcome aboard! Make sure to complete your onboarding checklist.,architecture.png
+2026-08-13 05:00:00,engineering@company.com,team@company.com,Project Update: Q3 Roadmap,Please review the attached document and confirm receipt by end of day.,report.docx
+2026-08-15 01:00:00,finance@company.com,leadership@company.com,Action Required: Password Reset,Here are the highlights from this week across engineering and product.,budget.xlsx
+2026-09-10 08:00:00,hr@company.com,leadership@company.com,Project Update: Q3 Roadmap,Please review the attached document and confirm receipt by end of day.,logs.txt
+2026-08-30 10:00:00,bob@example.com,charlie@example.com,Weekly Status Report,We noticed unusual activity on your account. Verify details via the attached PDF.,
+2026-08-01 16:00:00,hr@company.com,leadership@company.com,Invoice #INV-2026-089 Attached,Escalation resolved after rolling back migration hotfix.,invoice_89.pdf
+2026-08-26 21:00:00,david@example.com,alice@example.com,Welcome to the team!,We noticed unusual activity on your account. Verify details via the attached PDF.,roadmap_q3.pdf
+2026-08-29 01:00:00,engineering@company.com,team@company.com,Action Required: Password Reset,Welcome aboard! Make sure to complete your onboarding checklist.,logs.txt
+2026-08-21 20:00:00,alice@example.com,bob@example.com,Holiday Schedule Announcement,Please review the attached document and confirm receipt by end of day.,invoice_89.pdf
+2026-09-11 21:00:00,bob@example.com,devops@company.com,Invoice #INV-2026-089 Attached,We noticed unusual activity on your account. Verify details via the attached PDF.,
+2026-09-17 07:00:00,charlie@example.com,bob@example.com,Customer Escalation #9910,Office will remain closed next Monday for national holidays.,budget.xlsx
+2026-08-19 11:00:00,david@example.com,devops@company.com,Bug Report: Production Latency Spike,Here are the highlights from this week across engineering and product.,notes.md
+2026-09-07 19:00:00,engineering@company.com,team@company.com,Syncup Tomorrow at 10 AM,Attached is the invoice for last month services. Processing will occur on net-30.,invoice_89.pdf
+2026-08-30 06:00:00,alice@example.com,devops@company.com,Customer Escalation #9910,Attached is the invoice for last month services. Processing will occur on net-30.,architecture.png
+2026-08-02 00:00:00,bob@example.com,team@company.com,Syncup Tomorrow at 10 AM,Please review the attached document and confirm receipt by end of day.,roadmap_q3.pdf
+2026-08-29 14:00:00,bob@example.com,devops@company.com,Syncup Tomorrow at 10 AM,Latencies spiked past 800ms for US-East. Investigating root cause now.,
+2026-08-19 16:00:00,charlie@example.com,devops@company.com,Holiday Schedule Announcement,"Looks mostly good, left minor comments regarding error handling edge cases.",architecture.png
+2026-09-10 18:00:00,finance@company.com,alice@example.com,Action Required: Password Reset,Please review the attached document and confirm receipt by end of day.,budget.xlsx
+2026-08-31 15:00:00,finance@company.com,charlie@example.com,Feedback on PR #412,"Hi team, please find the latest updates attached. Let us know if you have questions.",invoice_89.pdf
+2026-08-06 14:00:00,finance@company.com,devops@company.com,Welcome to the team!,Please review the attached document and confirm receipt by end of day.,architecture.png
+2026-08-17 18:00:00,david@example.com,leadership@company.com,Feedback on PR #412,We noticed unusual activity on your account. Verify details via the attached PDF.,budget.xlsx
+2026-08-17 01:00:00,hr@company.com,charlie@example.com,Syncup Tomorrow at 10 AM,Please review the attached document and confirm receipt by end of day.,
+2026-09-17 09:00:00,bob@example.com,team@company.com,Customer Escalation #9910,"Hi team, please find the latest updates attached. Let us know if you have questions.",invoice_89.pdf
+2026-08-21 14:00:00,charlie@example.com,leadership@company.com,Feedback on PR #412,"Looks mostly good, left minor comments regarding error handling edge cases.",architecture.png
+2026-09-04 15:00:00,alice@example.com,bob@example.com,Weekly Status Report,"Hi team, please find the latest updates attached. Let us know if you have questions.",budget.xlsx
+2026-08-24 01:00:00,engineering@company.com,bob@example.com,Weekly Status Report,Escalation resolved after rolling back migration hotfix.,
+2026-08-14 15:00:00,david@example.com,bob@example.com,Syncup Tomorrow at 10 AM,"Hi team, please find the latest updates attached. Let us know if you have questions.",roadmap_q3.pdf
+2026-08-28 04:00:00,alice@example.com,team@company.com,Holiday Schedule Announcement,"Looks mostly good, left minor comments regarding error handling edge cases.",report.docx
+2026-08-06 06:00:00,bob@example.com,alice@example.com,Action Required: Password Reset,Office will remain closed next Monday for national holidays.,invoice_89.pdf
+2026-08-21 11:00:00,finance@company.com,team@company.com,Holiday Schedule Announcement,Attached is the invoice for last month services. Processing will occur on net-30.,roadmap_q3.pdf
+2026-08-08 09:00:00,finance@company.com,devops@company.com,Holiday Schedule Announcement,Office will remain closed next Monday for national holidays.,notes.md
+2026-08-23 16:00:00,david@example.com,devops@company.com,Welcome to the team!,Attached is the invoice for last month services. Processing will occur on net-30.,logs.txt
+2026-09-04 04:00:00,charlie@example.com,bob@example.com,Feedback on PR #412,Welcome aboard! Make sure to complete your onboarding checklist.,invoice_89.pdf
